@@ -1,0 +1,61 @@
+Nome do site: site-falso- Online:false
+Nome do site: https://www.linkedin.com.br- Online:true
+Nome do site: https://www.twitter.com- Online:true
+Nome do site: https://www.instagram.com- Online:true
+Nome do site: https://www.facebook.com- Online:true
+Nome do site: https://www.linkedin.com.br- Online:true
+Nome do site: https://www.twitter.com- Online:true
+Nome do site: https://www.instagram.com- Online:true
+Nome do site: https://www.facebook.com- Online:true
+Nome do site: https://www.linkedin.com.br- Online:true
+Nome do site: https://www.twitter.com- Online:true
+Nome do site: https://www.instagram.com- Online:true
+Nome do site: https://www.facebook.com- Online:true
+14/01/2022 18:50:41 - Nome do site: site-falso- Online: false
+14/01/2022 18:50:46 - Nome do site: https://www.linkedin.com.br- Online: true
+14/01/2022 18:50:47 - Nome do site: https://www.twitter.com- Online: true
+14/01/2022 18:50:49 - Nome do site: https://www.instagram.com- Online: true
+14/01/2022 18:50:51 - Nome do site: https://www.facebook.com- Online: true
+14/01/2022 18:50:56 - Nome do site: https://www.linkedin.com.br- Online: true
+14/01/2022 18:50:57 - Nome do site: https://www.twitter.com- Online: true
+14/01/2022 18:50:57 - Nome do site: https://www.instagram.com- Online: true
+14/01/2022 18:50:57 - Nome do site: https://www.facebook.com- Online: true
+14/01/2022 18:51:03 - Nome do site: https://www.linkedin.com.br- Online: true
+14/01/2022 18:51:03 - Nome do site: https://www.twitter.com- Online: true
+14/01/2022 18:51:04 - Nome do site: https://www.instagram.com- Online: true
+14/01/2022 18:51:04 - Nome do site: https://www.facebook.com- Online: true
+14/01/2022 18:56:59 - Nome do site: site-falso- Online: false
+14/01/2022 18:57:39 - Nome do site: site-falso- Online: false
+14/01/2022 18:57:55 - Nome do site: site-falso- Online: false
+14/01/2022 18:57:58 - Nome do site: https://www.linkedin.com.br- Online: true
+14/01/2022 18:58:00 - Nome do site: https://www.twitter.com- Online: true
+14/01/2022 18:58:01 - Nome do site: https://www.instagram.com- Online: true
+14/01/2022 18:58:03 - Nome do site: https://www.facebook.com- Online: true
+14/01/2022 18:58:08 - Nome do site: https://www.linkedin.com.br- Online: true
+14/01/2022 18:58:09 - Nome do site: https://www.twitter.com- Online: true
+14/01/2022 18:58:09 - Nome do site: https://www.instagram.com- Online: true
+14/01/2022 18:58:09 - Nome do site: https://www.facebook.com- Online: true
+14/01/2022 18:58:15 - Nome do site: https://www.linkedin.com.br- Online: true
+14/01/2022 18:58:15 - Nome do site: https://www.twitter.com- Online: true
+14/01/2022 18:58:16 - Nome do site: https://www.instagram.com- Online: true
+14/01/2022 18:58:16 - Nome do site: https://www.facebook.com- Online: true
+14/01/2022 18:58:21 - Nome do site: site-falso- Online: false
+17/01/2022 18:11:22 - Nome do site: site-falso- Online: false
+17/01/2022 18:11:42 - Nome do site: site-falso- Online: false
+17/01/2022 18:11:47 - Nome do site: https://www.linkedin.com.br- Online: true
+17/01/2022 18:11:48 - Nome do site: https://www.twitter.com- Online: true
+17/01/2022 18:11:51 - Nome do site: https://www.instagram.com- Online: true
+17/01/2022 18:11:52 - Nome do site: https://www.facebook.com- Online: true
+17/01/2022 18:11:57 - Nome do site: https://www.linkedin.com.br- Online: false
+17/01/2022 18:11:58 - Nome do site: https://www.twitter.com- Online: true
+17/01/2022 18:11:58 - Nome do site: https://www.instagram.com- Online: true
+17/01/2022 18:11:58 - Nome do site: https://www.facebook.com- Online: true
+17/01/2022 18:12:04 - Nome do site: https://www.linkedin.com.br- Online: true
+17/01/2022 18:12:04 - Nome do site: https://www.twitter.com- Online: true
+17/01/2022 18:12:05 - Nome do site: https://www.instagram.com- Online: true
+17/01/2022 18:12:05 - Nome do site: https://www.facebook.com- Online: true
+17/01/2022 18:19:25 - Nome do site: site-falso- Online: false
+17/01/2022 18:19:28 - Nome do site: https://www.linkedin.com.br- Online: true
+17/01/2022 18:19:30 - Nome do site: https://www.twitter.com- Online: true
+17/01/2022 18:19:32 - Nome do site: https://www.instagram.com- Online: true
+17/01/2022 18:19:33 - Nome do site: https://www.facebook.com- Online: true
